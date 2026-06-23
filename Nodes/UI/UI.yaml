@@ -252,7 +252,7 @@ Children:
       Type: BaseDataVariableType
       DataType: LocalizedText
       ModellingRule: Optional
-      Value: {"LocaleId":"en-US","Text":"Bouton de Florian"}
+      Value: {"LocaleId":"en-US","Text":"Bouton de Florian !"}
     - Name: TopMargin
       Type: BaseVariableType
       DataType: Size
