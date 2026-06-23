@@ -257,12 +257,12 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 105.0
+      Value: 318.0
     - Name: LeftMargin
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 197.0
+      Value: 57.0
     - Name: Width
       Type: BaseVariableType
       DataType: Size
